@@ -9,29 +9,29 @@ SLF-T 1					TLF 16/25
 ---------------------------------------------------------------------------------------------------------------------------------------------	
 	Feuerwehr: Berufsfeuerwehr (BF)
 ---------------------------------------------------------------------------------------------------------------------------------------------	
-n		BF Hamburg F11 Innenstadt (FRW)				Realfahrzeug		Fahrzeug		Eigene Fahrzeugklasse
+n		BF Hamburg F11 Innenstadt (FRW)				Realfahrzeug	Fahrzeug	Eigene Fahrzeugklasse
 			Admiralitätstraße 54
 			20459 Hamburg
 		Ausbauten: (n)Rettungsdienst; (n)Wasserrettung
 		Spezialisierung: /
 			
-n		Florian Hamburg 11 ELW 1				ELW1			ELW1			/
-n		Florian Hamburg 11 HLF 1 				HLF20			HLF20			/
-n		Florian Hamburg 11 DLK 1 				DLK 26/12		DLK 23/12		DLK 26/12
-n		Florian Hamburg 11 GW1 1				GW-1			LF16-TS			GW-1
-n		Florian Hamburg 11 GW-TEL 1 				GW-TEL			ELW1			GW-TEL
-n		Florian Hamburg 11 GW-LBZ 1 				GW-LBZ			GW-Wasserrettung	GW-LBZ
+n		Florian Hamburg 11 ELW 1				ELW1		ELW1		/
+n		Florian Hamburg 11 HLF 1 				HLF20		HLF20		/
+n		Florian Hamburg 11 DLK 1 				DLK 26/12	DLK 23/12	DLK 26/12
+n		Florian Hamburg 11 GW1 1				GW-1		LF16-TS		GW-1
+n		Florian Hamburg 11 GW-TEL 1 				GW-TEL		ELW1		GW-TEL
+n		Florian Hamburg 11 GW-LBZ 1 				GW-LBZ		GW-WasserrettungGW-LBZ
 
-n		Florian Hamburg 11 RTW A				RTW			RTW			/								
-n		Florian Hamburg 11 RTW B 				RTW			RTW			/
-n		Florian Hamburg 11 RTW K 				RTW			RTW			/
+n		Florian Hamburg 11 RTW A				RTW		RTW		/								
+n		Florian Hamburg 11 RTW B 				RTW		RTW		/
+n		Florian Hamburg 11 RTW K 				RTW		RTW		/
 		
 n		+BF Hamburg F11 LBS Sandtorkai (FW)
 			Sandtorkai 1
 			20457 Hamburg
 			
-n		Florian Hamburg 11 LB					LB			MzB			LB
-n		Florian Hamburg 11 KB					KB			MzB			KB
+n		Florian Hamburg 11 LB					LB		MzB		LB
+n		Florian Hamburg 11 KB					KB		MzB		KB
 Quellen: https://bos-fahrzeuge.info/wachen/746/BF_Hamburg_F_11_Innenstadt_FW;
          https://www.hamburg.de/feuerwehr/wachen/4525102/feuerwache-innenstadt/
 ---------------------------------------------------------------------------------------------------------------------------------------------		
