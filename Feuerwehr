@@ -1,22 +1,22 @@
 Leistelle Hamburg (HH)
 Komplikationen:
-GW-1 #fährt als KLF												LF16-TS							
-[1/1; 0 Liter;            								[1/1(1/8); 0 Liter
- 0 Liter/min]              			 					 1.600 Liter/min]
-SLF-T 1																		TLF 16/25 
-[1/5; 2.500L;                            	[1/5; 2.400L; 
- 2.000L/min]                               1.600L/min]
------------------------------------------------------------------------------------------------------------------------------------	
+GW-1 #fährt als KLF			LF16-TS							
+[1/1; 0 Liter;            		[1/1(1/8); 0 Liter
+ 0 Liter/min]              		 1.600 Liter/min]
+SLF-T 1					TLF 16/25 
+[1/5; 2.500L;                           [1/5; 2.400L; 
+ 2.000L/min]                             1.600L/min]
+---------------------------------------------------------------------------------------------------------------------------------------------	
 	Feuerwehr: Berufsfeuerwehr (BF)
------------------------------------------------------------------------------------------------------------------------------------	
-n		BF Hamburg F11 Innenstadt (FRW)															  Realfahrzeug					  Fahrzeug					 Eigene Fahrzeugklasse
+---------------------------------------------------------------------------------------------------------------------------------------------	
+n		BF Hamburg F11 Innenstadt (FRW)				Realfahrzeug		Fahrzeug		Eigene Fahrzeugklasse
 			Admiralitätstraße 54
 			20459 Hamburg
 		Ausbauten: (n)Rettungsdienst; (n)Wasserrettung
 		Spezialisierung: /
 			
-n		Florian Hamburg 11 ELW 1																			ELW1										ELW1							 /
-n		Florian Hamburg 11 HLF 1 																			HLF20									  HLF20							 /
+n		Florian Hamburg 11 ELW 1				ELW1			ELW1			/
+n		Florian Hamburg 11 HLF 1 				HLF20			HLF20			/
 n		Florian Hamburg 11 DLK 1 																			DLK 26/12								DLK 23/12						DLK 26/12
 n		Florian Hamburg 11 GW1 1																			GW-1										LF16-TS							GW-1
                                                                   [1/1;0 Liter;           [1/1(1/8);
@@ -48,7 +48,7 @@ n		Florian Hamburg 12 ELW 1																			ELW1										ELW1								/
 n		Florian Hamburg 12 HLF 1 																			HLF20										HLF20								/
 n		Florian Hamburg 12 DLK 1 																			DLK 26/12								DLK 23/12						DLK 26/12
 n		Florian Hamburg 12 GW-R2 1																		GW-R2										GW-R								GW-R2
-n   Florian Hamburg 12 GW1 1									                    GW-1								    LF16-TS             GW-1
+n		Florian Hamburg 12 GW1 1									                    GW-1								    LF16-TS             GW-1
 n		Florian Hamburg 12 WLF 1 																	    WLF									    WLF
       AB-Atemschutz
       AB-Ladebordwand
@@ -105,7 +105,7 @@ n		BF Hamburg F14 Osdorf (FRW)							    									Realfahrzeug						Fahrzeug				
 n		Florian Hamburg 14 ELW 1																			ELW1										ELW1								/
 n		Florian Hamburg 14 HLF 1 																			HLF20										HLF20								/
 n		Florian Hamburg 14 DLK 1 																			DLK 26/12								DLK 23/12						DLK 26/12
-n   Florian Hamburg 14 GW1 1									                    GW-1								    LF16-TS             GW-1
+n		Florian Hamburg 14 GW1 1									                    GW-1								    LF16-TS             GW-1
 
 n		Florian Hamburg 14 RTW A																			RTW											RTW									/								
 n		Florian Hamburg 14 RTW B 																			RTW											RTW									/
@@ -114,15 +114,15 @@ n		Florian Hamburg 14 RTW D																			RTW											RTW									/
 n		Florian Hamburg 14 RTW K 																		  RTW										  RTW									/
 n		Florian Hamburg 14 GW-SAN 1 																	GW-SAN 						  		GW-SAN			  			/
 
-n   +BF Hamburg F14 ETF-Nord (FW)
-       Holmbrook 15
-       22605 Hamburg
-n 	Florian Hamburg 13 SLF-T 1                                    SLF-T                   TLF 16/25           SLF-T    
-n   Florian Hamburg 13 VRW-T 1                                    VRW-T                   RW                  VRW-T
+n		+BF Hamburg F14 ETF-Nord (FW)
+			Holmbrook 15
+			22605 Hamburg
+n		Florian Hamburg 13 SLF-T 1                                    SLF-T                   TLF 16/25           SLF-T    
+n		Florian Hamburg 13 VRW-T 1                                    VRW-T                   RW                  VRW-T
 
-n   +BF Hamburg F14 RW Rissen (RW)
-	     Rissener Landstrasse 212
-       22559 Hamburg
+n		+BF Hamburg F14 RW Rissen (RW)
+		     Rissener Landstrasse 212
+		     22559 Hamburg
 n		Florian Hamburg 14 RTW F																			RTW											RTW									/								      
 Quellen: https://bos-fahrzeuge.info/wachen/837/BF_Hamburg_F_14_RW_Rissen;
          https://bos-fahrzeuge.info/wachen/12313/BF_Hamburg_F-14_Aussenstelle_Elbtunnel_Nord;
