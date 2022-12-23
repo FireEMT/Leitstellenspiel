@@ -1,11 +1,11 @@
-Leistelle Hamburg (HH)
+Rettungsleistelle Hamburg (HH)
 Notizen:
-GW-1 #fährt als KLF			LF16-TS							
-[1/1; 0L;            			[1/1(1/8); 0L
- 0 Liter/min]              		 1.600 Liter/min]
-SLF-T 1					TLF 16/25 
-[1/5; 2.500L;                           [1/5; 2.400L; 
- 2.000L/min]                             1.600L/min]
+GW-1 #fährt als KLF		LF16-TS				LF16/12					
+[1/1; 0L;            		[1/1(1/8); 0L			[1/8; 1.600 Liter;
+ 0 Liter/min]              	 1.600 Liter/min]		 1.600 Liter/min]
+SLF-T 1				TLF 16/25 			LF 20/16
+[1/5; 2.500L;                   [1/5; 2.400L; 			[1/8; 1.600 Liter;
+ 2.000L/min]                     1.600L/min]			 1.600 Liter/min]
 --------------------------------------------------------------------------------------------------------------------------------------
 	Feuerwehr: Berufsfeuerwehr (BF)
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -74,7 +74,7 @@ n		BF Hamburg F13 Rotherbaum (FRW)			Realfahrzeug		Fahrzeug		Eigene Fahrzeugklas
 			
 n		Florian Hamburg 13 ELW 1			ELW1			ELW1			/
 n		Florian Hamburg 13 HLF 1 			HLF20			HLF20			/
-n		Florian Hamburg 13 DLK 1 			DLK 23/12		DLK 23/12		/
+n		Florian Hamburg 13 DLK 1 			DLK 23/12		DLK 23/12		DLK 23/12
 n   		Florian Hamburg 13 GW1 1			GW-1			LF16-TS             	GW-1
 
 n		Florian Hamburg 13 RTW A			RTW			RTW			/								
@@ -126,3 +126,25 @@ Quellen: https://bos-fahrzeuge.info/wachen/837/BF_Hamburg_F_14_RW_Rissen;
          https://bos-fahrzeuge.info/wachen/5296/BF_Hamburg_F_14_Osdorf_FW;
          https://www.hamburg.de/feuerwehr/wachen/4524730/feuerwache-osdorf/
 -------------------------------------------------------------------------------------------------------------------------------------
+n		BF Hamburg F15 Stellingen			Realfahrzeug		Fahrzeug		Eigene Fahrzeugklasse
+			Basselweg 71
+			22527 Hamburg
+n		Florian Hamburg 15 ELW 1			ELW1			ELW			/
+n		Florian Hamburg 15 HLF 1			HLF			HLF			/
+n		Florian Hamburg 15 HLF 2 			HLF (Mo-Fr tagsüber)	HLF			/
+n		Florian Hamburg 15 HLF 3 			LF 16/12 (Ausbildungs-	LF 20/16		LF 16/12
+									     fahrzeug)
+n		Florian Hamburg 15 DLK 1			DLK 26/12		DLK			DLK 26/12	
+n		Florian Hamburg 15 GW1 1 			GW1			LF 16-TS		GW1
+
+n		Florian Hamburg 17 VRW-T 1			VRW-T 			RW			VRW-T
+n		Florian Hamburg 17 SLF-T 1 			SLF-T			TLF 16/25           	SLF-T     
+		(bis Fertigstellung der Feuer- und Rettungswache Schnelsen, F 17)
+n		Florian Hamburg 15 RTW A 			RTW			RTW			/
+n		Florian Hamburg 15 RTW B 			RTW			RTW			/ 
+n		Florian Hamburg 15 RTW C			RTW			RTW			/ 
+n		Florian Hamburg 15 RTW D			RTW			RTW			/ 
+n		Florian Hamburg 15 RTW K			RTW			RTW			/ 
+n		Florian Hamburg 15 GW-MANV 1			GW-MANV			GW-SAN			GW-MANV
+Quellen: https://www.hamburg.de/feuerwehr/wachen/4525070/feuerwache-stellingen/;
+https://bos-fahrzeuge.info/wachen/696/BF_Hamburg_F_15_Stellingen_FW
